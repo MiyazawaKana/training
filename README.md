@@ -1,7 +1,7 @@
 # README
 
 本システムはBrazeにアップロードするCSV形式のCatalogの事前検査を目的とします。  
-検査機能は大きく分けて２つあり、、、、、
+検査機能は大きく分けて２つあり、
 [catalogChecker.py]にてCSVの内容を検査し、  
 [generateCouponCatalog.py]にてHTMLファイルを出力し、目視によるイメージ図とクーポン内容の確認を行うものです。
 
